@@ -24,7 +24,7 @@ You have to remove features that have too strong correlation
 
 ## Dataset selection
 The first day of the project was spent on evaluating and selecting datasets, with the help of the pandas-profiling module.
-In the end we settled on the smallest dataset because it held the most clean data.
+In the end we settled on the most complete dataset even though it had the least observations.
 It meant we lost possibly predictive features like the number of facades.
 
 
