@@ -22,5 +22,10 @@ You have to remove features that have too strong correlation
 * Apply a linear regression in a real context.
 * Preprocess data for machine learning.
 
+## Dataset selection
+The first day of the project was spent on evaluating and selecting datasets, with the help of the pandas-profiling module.
+In the end we settled on the smallest dataset because it held the most clean data.
+It meant we lost possibly predictive features like the number of facades.
+
 
 
