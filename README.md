@@ -7,7 +7,7 @@
 * Team challenge : 4
 * Contributors : Sravanthi Tarani,Christophe Schellinck,Philippe Fimmers,Mikael Dominguez
 * Link to specifications
-* Result presentation: https://github.com/wiiki09/real_estate_regression/blob/main/GPT-3%20challenge-regression.pdf
+* [Result presentation](https://github.com/wiiki09/real_estate_regression/blob/main/GPT-3%20challenge-regression.pdf)
 
 ## The Mission
 The real estate company "ImmoEliza" ask you to create a machine learning model to predict prices on Belgium's sales.
